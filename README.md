@@ -21,7 +21,7 @@ A production-ready Next.js starter template using **Tailwind CSS**, built for mo
 - Next.js
 - React
 - Tailwind CSS
-- JavaScript / TypeScript (optional)
+- TypeScript
 - ESLint (Next.js default)
 
 ---
